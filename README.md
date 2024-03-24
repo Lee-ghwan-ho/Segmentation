@@ -3,7 +3,8 @@
 ---
 ## 24.03.15 (CVAT)
 주석처리도구
-![image](https://github.com/Lee-ghwan-ho/Segmentation/assets/114568122/ceda22a8-faeb-47a5-b4f8-8110ced1e39f)
+![image](https://github.com/Lee-ghwan-ho/Segmentation/assets/114568122/6ed80547-9e85-4364-b536-756eb37f983b)
+
 
 ---
 
